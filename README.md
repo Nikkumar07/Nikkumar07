@@ -1,11 +1,8 @@
-<div align="center">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?text=Nikhil%20Kumar&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&fontColor=ffffff"/>
 </p>
 
-
-
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nikhil+Kumar;Site+Reliability+Engineer+%7C+5%2B+Years;CKA+%7C+CKAD+%7C+KCNA+Certified;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
 
@@ -147,8 +144,7 @@ At **Akamai**, I operated one of the world's largest edge networks, managing a f
 
 </div>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-
