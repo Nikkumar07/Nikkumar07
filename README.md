@@ -120,16 +120,6 @@ I'm a **Site Reliability Engineer** with **5+ years** of experience keeping larg
 
 ---
 
-## 💼 Experience Snapshot
-
-| Role | Company | Period |
-|------|---------|--------|
-| 🔷 Site Reliability Engineer II | Mobile Premier League (MPL) | Jun 2025 – Sep 2025 |
-| 🔷 Site Reliability Engineer II | Akamai Technology | May 2023 – May 2024 |
-| 🔶 Platform Operations Engineer | Akamai Technology | Apr 2021 – Apr 2023 |
-| 🔸 Platform Ops Engineer Associate | Randstad → Akamai | Sep 2019 – Apr 2021 |
-
----
 
 ## 📊 Activity Graph
 
