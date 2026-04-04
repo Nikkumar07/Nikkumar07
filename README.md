@@ -1,16 +1,150 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nikkumar07/Nikkumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nikhil+Kumar;Site+Reliability+Engineer+%7C+5%2B+Years;CKA+%7C+CKAD+%7C+KCNA+Certified;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhilkumar0708-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumar0708)
+[![Email](https://img.shields.io/badge/Email-Nikhilkumar07.1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nikhilkumar07.1994@gmail.com)
+[![Location](https://img.shields.io/badge/Bangalore-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bangalore,India)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> *"Reliability is not a feature — it's a discipline."*
+
+I'm a **Site Reliability Engineer** with **5+ years** of experience keeping large-scale production systems alive, observable, and continuously improving. From managing a fleet of **~400,000 Linux servers** at Akamai to migrating entire observability stacks at MPL, I thrive at the intersection of infrastructure, automation, and developer experience.
+
+- 🔭 Currently working on **observability migrations** (New Relic → Prometheus + Grafana + ELK)
+- 🛡️ Former **Akamai SRE** — WAF, DDoS mitigation, CDN, and global edge operations
+- ⚙️ Passionate about **GitOps, IaC, and reducing MTTR**
+- 📊 Deep experience in **SLOs/SLIs, error budgets, and on-call engineering**
+- 🤖 Exploring **AI-assisted DevOps** with tools like Cursor IDE and OpenTelemetry
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_and_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Admin-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
+
+**Containers & Orchestration**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Automation & IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+
+**Programming & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikkumar07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkumar07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikkumar07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikkumar07/Nikkumar07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikkumar07/Nikkumar07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikkumar07/Nikkumar07/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkumar07&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🔷 Site Reliability Engineer II | Mobile Premier League (MPL) | Jun 2025 – Sep 2025 |
+| 🔷 Site Reliability Engineer II | Akamai Technology | May 2023 – May 2024 |
+| 🔶 Platform Operations Engineer | Akamai Technology | Apr 2021 – Apr 2023 |
+| 🔸 Platform Ops Engineer Associate | Randstad → Akamai | Sep 2019 – Apr 2021 |
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikkumar07&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikkumar07&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+⭐️ *From [Nikkumar07](https://github.com/Nikkumar07) — keeping systems reliable, one commit at a time.*
+
+</div>
