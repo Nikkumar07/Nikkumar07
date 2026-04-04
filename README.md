@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Nikhil%20Kumar&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?text=Nikhil%20Kumar&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <div align="center">
@@ -146,5 +146,5 @@ At **Akamai**, I operated one of the world's largest edge networks, managing a f
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
