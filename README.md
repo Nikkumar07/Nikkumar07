@@ -1,8 +1,7 @@
 <div align="center">
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Nikhil%20Kumar&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
 
 
@@ -34,16 +33,16 @@ At **Akamai**, I operated one of the world's largest edge networks, managing a f
 - 🔐 Security-aware — Akamai WAF, WAAP, OWASP Top 10, DDoS mitigation
 
 ---
-
 ## 🏆 Certifications
 
 <div align="center">
 
-![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_and_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Admin-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/5787e160-86fc-4f11-8021-20db50308350/public_url)
+[![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/5cc38f8a-6fd1-42af-b281-545bf58b61cf/public_url)
+[![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_and_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/1d1882fb-0fca-433a-bcdb-97b813299c9b/public_url)
+[![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Admin-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/540c73ef-5ef3-4e7a-a510-aab347e157ba/public_url)
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-Getting_Started_Certificate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/9f440bea-41ee-4a31-890c-e5cd2ba1dcac/public_url)
+[![Docker](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
 
 </div>
 
@@ -148,8 +147,8 @@ At **Akamai**, I operated one of the world's largest edge networks, managing a f
 
 </div>
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn"/>
 </p>
+
+
