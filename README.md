@@ -1,5 +1,10 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Nikhil%20Kumar&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&fontColor=ffffff"/>
+</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nikhil+Kumar;Site+Reliability+Engineer+%7C+5%2B+Years;CKA+%7C+CKAD+%7C+KCNA+Certified;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
@@ -11,18 +16,19 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-> *"Reliability is not a feature — it's a discipline."*
+> *"Infrastructure should be invisible — until it isn't. My job is to keep it invisible."*
 
-I'm a **Site Reliability Engineer** with **5+ years** of experience keeping large-scale production systems alive, observable, and continuously improving. From managing a fleet of **~400,000 Linux servers** at Akamai to migrating entire observability stacks at MPL, I thrive at the intersection of infrastructure, automation, and developer experience.
+I'm a **CKA | CKAD | KCNA certified Site Reliability Engineer** with **5+ years** of experience designing, operating, and scaling cloud-native infrastructure on **GCP, Azure, and Linode**. I specialize in **Kubernetes-native architectures** — from deploying and managing multi-environment clusters to building GitOps workflows with ArgoCD and Helm.
 
-- 🔭 Currently working on **observability migrations** (New Relic → Prometheus + Grafana + ELK)
-- 🛡️ Former **Akamai SRE** — WAF, DDoS mitigation, CDN, and global edge operations
-- ⚙️ Passionate about **GitOps, IaC, and reducing MTTR**
-- 📊 Deep experience in **SLOs/SLIs, error budgets, and on-call engineering**
-- 🤖 Exploring **AI-assisted DevOps** with tools like Cursor IDE and OpenTelemetry
+At **Akamai**, I operated one of the world's largest edge networks, managing a fleet of **~400,000 Linux servers**, building CI/CD pipelines with Jenkins, and protecting enterprise applications with WAF, WAAP, and DDoS mitigation. At **MPL**, I led the full observability migration from New Relic to **Prometheus + Grafana + ELK**, reducing monitoring overhead while improving alert fidelity.
+
+- 🚀 **Currently open to SRE / DevOps / Platform Engineer roles**
+- ☸️ Deep expertise in **Kubernetes, Helm, ArgoCD, Terraform, and Rancher**
+- 📡 Passionate about **observability** — SLOs, SLIs, error budgets, and reducing MTTR
+- ⚙️ Strong believer in **GitOps and IaC** — if it's not in code, it doesn't exist
+- 🔐 Security-aware — Akamai WAF, WAAP, OWASP Top 10, DDoS mitigation
 
 ---
 
@@ -138,3 +144,7 @@ I'm a **Site Reliability Engineer** with **5+ years** of experience keeping larg
 ⭐️ *From [Nikkumar07](https://github.com/Nikkumar07) — keeping systems reliable, one commit at a time.*
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
