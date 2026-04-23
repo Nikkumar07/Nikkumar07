@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nikhil+Kumar;Site+Reliability+Engineer+%7C+5%2B+Years;CKA+%7C+CKAD+%7C+KCNA+Certified;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nikhil+Kumar;Site+Reliability+Engineer;CKA+%7C+CKAD+%7C+KCNA+Certified;Building+Reliable%2C+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
